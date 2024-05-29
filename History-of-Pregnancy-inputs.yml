@@ -1,0 +1,162 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/history-of-pregnancy-specified---primary.py
+inputModule3:
+  class: File
+  path: python/history-of-pregnancy-deliv---primary.py
+inputModule4:
+  class: File
+  path: python/single-history-of-pregnancy---primary.py
+inputModule5:
+  class: File
+  path: python/history-of-pregnancy-postdelivery---primary.py
+inputModule6:
+  class: File
+  path: python/history-of-pregnancy-vertex---primary.py
+inputModule7:
+  class: File
+  path: python/history-of-pregnancy---primary.py
+inputModule8:
+  class: File
+  path: python/history-of-pregnancy-stillbirth---primary.py
+inputModule9:
+  class: File
+  path: python/severe-history-of-pregnancy---primary.py
+inputModule10:
+  class: File
+  path: python/history-of-pregnancy-placentae---primary.py
+inputModule11:
+  class: File
+  path: python/premature-history-of-pregnancy---primary.py
+inputModule12:
+  class: File
+  path: python/fetalmaternal-history-of-pregnancy---primary.py
+inputModule13:
+  class: File
+  path: python/venous-history-of-pregnancy---primary.py
+inputModule14:
+  class: File
+  path: python/maternal-history-of-pregnancy---primary.py
+inputModule15:
+  class: File
+  path: python/history-of-pregnancy-childbirth---primary.py
+inputModule16:
+  class: File
+  path: python/history-of-pregnancy-labour---primary.py
+inputModule17:
+  class: File
+  path: python/history-of-pregnancy-emergency---primary.py
+inputModule18:
+  class: File
+  path: python/history-of-pregnancy-retardation---primary.py
+inputModule19:
+  class: File
+  path: python/history-of-pregnancy-antepartum---primary.py
+inputModule20:
+  class: File
+  path: python/retroplacental-history-of-pregnancy---primary.py
+inputModule21:
+  class: File
+  path: python/history-of-pregnancy-puerperium---primary.py
+inputModule22:
+  class: File
+  path: python/history-of-pregnancy-gestation---primary.py
+inputModule23:
+  class: File
+  path: python/cerebral-history-of-pregnancy---primary.py
+inputModule24:
+  class: File
+  path: python/history-of-pregnancy-problem---primary.py
+inputModule25:
+  class: File
+  path: python/history-of-pregnancy-vagin---primary.py
+inputModule26:
+  class: File
+  path: python/antenatal-history-of-pregnancy---primary.py
+inputModule27:
+  class: File
+  path: python/obstetric-history-of-pregnancy---primary.py
+inputModule28:
+  class: File
+  path: python/history-of-pregnancy-eclampsia---primary.py
+inputModule29:
+  class: File
+  path: python/history-of-pregnancy-following---primary.py
+inputModule30:
+  class: File
+  path: python/history-of-pregnancy-preexisting---primary.py
+inputModule31:
+  class: File
+  path: python/history-of-pregnancy-proteinuria---primary.py
+inputModule32:
+  class: File
+  path: python/history-of-pregnancy-malnutrition---primary.py
+inputModule33:
+  class: File
+  path: python/transient-history-of-pregnancy---primary.py
+inputModule34:
+  class: File
+  path: python/history-of-pregnancy-aborter---primary.py
+inputModule35:
+  class: File
+  path: python/history-of-pregnancy-uterine---primary.py
+inputModule36:
+  class: File
+  path: python/lower-history-of-pregnancy---primary.py
+inputModule37:
+  class: File
+  path: python/history-of-pregnancy-complication---primary.py
+inputModule38:
+  class: File
+  path: python/history-of-pregnancy-oedema---primary.py
+inputModule39:
+  class: File
+  path: python/history-of-pregnancy-abnorm---primary.py
+inputModule40:
+  class: File
+  path: python/history-of-pregnancy-mention---primary.py
+inputModule41:
+  class: File
+  path: python/fresh-history-of-pregnancy---primary.py
+inputModule42:
+  class: File
+  path: python/history-of-pregnancy-abortion---primary.py
+inputModule43:
+  class: File
+  path: python/upper-history-of-pregnancy---primary.py
+inputModule44:
+  class: File
+  path: python/renal-history-of-pregnancy---primary.py
+inputModule45:
+  class: File
+  path: python/history-of-pregnancy-section---primary.py
+inputModule46:
+  class: File
+  path: python/history-of-pregnancy-threatened---primary.py
+inputModule47:
+  class: File
+  path: python/elective-history-of-pregnancy---primary.py
+inputModule48:
+  class: File
+  path: python/trial-history-of-pregnancy---primary.py
+inputModule49:
+  class: File
+  path: python/history-of-pregnancy-fetus---primary.py
+inputModule50:
+  class: File
+  path: python/history-of-pregnancy-anoxia---primary.py
+inputModule51:
+  class: File
+  path: python/history-of-pregnancy-hypertension---primary.py
+inputModule52:
+  class: File
+  path: python/history-of-pregnancy-thrombosis---primary.py
+inputModule53:
+  class: File
+  path: python/early-history-of-pregnancy---primary.py
+inputModule54:
+  class: File
+  path: python/output-cases.py
